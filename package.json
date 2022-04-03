@@ -1,0 +1,29 @@
+{
+  "name": "nice-grpc-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanlyhs/nice-grpc-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanlyhs/nice-grpc-example/issues"
+  },
+  "homepage": "https://github.com/lanlyhs/nice-grpc-example#readme",
+  "dependencies": {
+    "long": "^4.0.0",
+    "nice-grpc": "^1.0.8",
+    "protobufjs": "^6.11.2"
+  },
+  "devDependencies": {
+    "grpc-tools": "^1.11.2",
+    "ts-proto": "^1.110.2"
+  }
+}
